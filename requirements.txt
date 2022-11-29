@@ -4,4 +4,7 @@ transformers>=4.19.0
 torch
 torchaudio
 pyctcdecode
-
+datasets
+librosa
+jiwer
+matplotlib
