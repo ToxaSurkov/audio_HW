@@ -10,5 +10,5 @@
 
 Описание домашнего задания в hw.txt
 
-До-обученную модель можно скачать с https://disk.yandex.ru/d/-6GetmTER-4uUA файл «trained_model.zip» , который надо разархивировать. Или выполнить download_model.ipynb (также добавлен код).
+До-обученную модель можно скачать с https://disk.yandex.ru/d/LrTwZxysqYf0Eg файл «trained_model.zip» , который надо разархивировать. Или выполнить download_model.ipynb (также добавлен код).
 До-обучение и тест на другом русскоязычном датасете в Fine-Tune-Wav2vec.ipynb
